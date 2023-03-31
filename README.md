@@ -1,7 +1,7 @@
-<div id="header" aling="center">
-    <img src="https://media.giphy.com/media/btwPhnNxMZgBIA5gHj/giphy.gif" aling="center" width="200"/>
-    <h1 aling="center">Hola soy Felipe :)</h1>
-    <h3 aling="center">Soy de Colombia, me gusta programar mientras escucho musica :b<br>Estudiante de ingenieria de sistemas en la UDEC</h3>
+<div id="header" align="center">
+    <img align="center" src="https://media.giphy.com/media/btwPhnNxMZgBIA5gHj/giphy.gif" width="200"/>
+    <h1 align="center">Hola soy Felipe :)</h1>
+    <h3 align="center">Soy de Colombia, me gusta programar mientras escucho musica :b<br>Estudiante de ingenieria de sistemas en la UDEC</h3>
 </div>
 
 <!--
