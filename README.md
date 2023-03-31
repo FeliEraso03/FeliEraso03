@@ -3,7 +3,6 @@
     <h1 align="center">Hola soy Felipe :)</h1>
     <h3 align="center">Soy de Colombia, me gusta programar mientras escucho musica :b<br>Estudiante de ingenieria de sistemas en la UDEC</h3>
 </div>
-#Titulo
 <!--
 **FeliEraso03/FeliEraso03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
