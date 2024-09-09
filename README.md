@@ -60,13 +60,17 @@
         <h1>Hello, I'm Felipe :)</h1>
         <h3>I'm from Colombia, and I enjoy programming while listening to music :b<br>Systems Engineering student at UDEC</h3>
     </div>
+
     <div id="animation-container">
         <div class="pulse"></div>
         <p>Welcome to my GitHub profile!</p>
     </div>
+
     <script>
+        // Simple animation with JavaScript
         const pulse = document.querySelector('.pulse');
         let growing = true;
+
         function animatePulse() {
             if (growing) {
                 pulse.style.transform = 'scale(1.5)';
@@ -76,6 +80,7 @@
                 growing = true;
             }
         }
+
         setInterval(animatePulse, 1000);
     </script>
 </body>
