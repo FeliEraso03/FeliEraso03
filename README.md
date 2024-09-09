@@ -65,7 +65,6 @@
         <p>Welcome to my GitHub profile!</p>
     </div>
     <script>
-        // Simple animation with JavaScript
         const pulse = document.querySelector('.pulse');
         let growing = true;
         function animatePulse() {
