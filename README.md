@@ -1,90 +1,55 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Felipe's GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f0f0f0;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
-        #header {
-            background-color: #282c34;
-            color: #61dafb;
-            padding: 20px;
-            border-radius: 10px;
-            margin: 20px;
-        }
-        img {
-            border-radius: 10px;
-        }
-        h1, h3 {
-            margin: 0;
-        }
-        #animation-container {
-            margin: 20px;
-            padding: 20px;
-        }
-        .pulse {
-            display: inline-block;
-            width: 100px;
-            height: 100px;
-            background-color: #61dafb;
-            border-radius: 50%;
-            animation: pulse 1.5s infinite;
-        }
-        @keyframes pulse {
-            0% {
-                transform: scale(1);
-                opacity: 1;
-            }
-            50% {
-                transform: scale(1.2);
-                opacity: 0.5;
-            }
-            100% {
-                transform: scale(1);
-                opacity: 1;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div id="header">
-        <img src="https://media.giphy.com/media/btwPhnNxMZgBIA5gHj/giphy.gif" width="200" alt="Felipe's GIF"/>
-        <h1>Hello, I'm Felipe :)</h1>
-        <h3>I'm from Colombia, and I enjoy programming while listening to music :b<br>Systems Engineering student at UDEC</h3>
-    </div>
+# Hi there! I'm Felipe 😊
 
-    <div id="animation-container">
-        <div class="pulse"></div>
-        <p>Welcome to my GitHub profile!</p>
-    </div>
+I'm from Colombia and a Systems Engineering student at UDEC. I enjoy programming while listening to music 🎶.
 
-    <script>
-        // Simple animation with JavaScript
-        const pulse = document.querySelector('.pulse');
-        let growing = true;
+![Felipe's GIF](https://media.giphy.com/media/btwPhnNxMZgBIA5gHj/giphy.gif)
 
-        function animatePulse() {
-            if (growing) {
-                pulse.style.transform = 'scale(1.5)';
-                growing = false;
-            } else {
-                pulse.style.transform = 'scale(1)';
-                growing = true;
-            }
-        }
+## About Me
 
-        setInterval(animatePulse, 1000);
-    </script>
-</body>
-</html>
+- 🌱 I’m currently learning new programming languages and technologies.
+- 💻 I love working on projects that combine my passion for coding with real-world applications.
+- 🎶 My favorite pastime is programming while listening to music, which keeps me focused and motivated.
+- 📚 I’m studying Systems Engineering and am excited about the endless possibilities in technology.
+
+## Projects
+
+Feel free to check out my repositories to see some of the projects I've been working on. I’m always open to collaboration and learning new things!
+
+## Contact
+
+You can reach me at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin).
+
+Thanks for stopping by! 😊
+
+<!-- HTML for animation -->
+<div style="text-align: center; margin-top: 20px;">
+    <div style="
+        display: inline-block;
+        width: 100px;
+        height: 100px;
+        background-color: #61dafb;
+        border-radius: 50%;
+        animation: pulse 1.5s infinite;
+    "></div>
+    <p>Welcome to my GitHub profile!</p>
+</div>
+
+<style>
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+        opacity: 1;
+    }
+    50% {
+        transform: scale(1.2);
+        opacity: 0.5;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+</style>
 
 <!--
 **FeliEraso03/FeliEraso03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
