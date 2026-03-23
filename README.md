@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Felipe%20Eraso&fontSize=75&color=0:8B5CF6,50:EC4899,100:06B6D4&fontColor=ffffff&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" width="100%"/>
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Felipe%20Eraso&fontSize=74&fontAlignY=40&desc=Software%20Development%20%7C%20Automation%20%7C%20Backend&descAlign=50&descAlignY=65&color=0:FF512F,50:FF8C00,100:FF0080&fontColor=ffffff&animation=twinkling&stroke=FF0080&strokeWidth=1"
+width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Systems+Engineering+Student+%F0%9F%8E%93;Backend+Developer+%7C+Spring+Boot+%2B+MongoDB;Process+Automation+%7C+Python+%2B+GAS;Building+things+by+night+%F0%9F%8C%99%F0%9F%8E%A7" alt="Typing SVG" />
+<p align="center">
+
+<img 
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=Systems+Engineering+Student;Backend+Developer+%7C+Spring+Boot+%2B+MongoDB;Process+Automation+%7C+Python+%2B+GAS;Building+things+by+night"
+/>
+
+</p>
 
 <br/>
 
@@ -160,16 +168,16 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 ```
  #   artist               vibe
 ─────────────────────────────────────────────────────
- 1   Mon Laferte          ████████████████████  latin soul
- 2   Estopa               ███████████████████   rumba urbana
- 3   Måneskin             ██████████████████    rock revival
+ 1   Mon Laferte          ████████████████████  latin soul / bolero pop
+ 2   Estopa               ███████████████████   rumba catalana
+ 3   Måneskin             ██████████████████    rock revival / glam rock
  4   The Midnight         █████████████████     synthwave / retrowave
  5   Foster The People    ████████████████      indie pop
- 6   Damiano David        ███████████████       raw rock energy
+ 6   Damiano David        ███████████████       alt rock / raw rock energy
  7   Chase Atlantic       ██████████████        alt R&B / dark pop
- 8   Twenty One Pilots    █████████████         emotional alt
- 9   Morat                ████████████          latin indie
-10   Julio Jaramillo      ███████████           pasillo colombiano 🇨🇴
+ 8   Twenty One Pilots    █████████████         emotional alt / indie rock
+ 9   Morat                ████████████          latin pop / folk pop
+10   Julio Jaramillo      ███████████           pasillo / bolero ecuatoriano 🇪🇨
 ```
 
 ---
