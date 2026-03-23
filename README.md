@@ -13,34 +13,22 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&col
 </p>
 
 <br/>
-<p align="center">
-
-
-<p align="center">
-
-<a href="mailto:felipeeraso.navarro@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/felipe-eraso-col2003" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/FeliEraso03" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.google.com/maps/place/Centro+Histórico+de+Cartagena/" target="_blank">
-  <img src="https://img.shields.io/badge/Location-Cartagena,%20Colombia-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=FeliEraso03&label=Visitors&color=7B68EE&style=for-the-badge"/>
-
-</p>
 
 
 
-</p>
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-felipeeraso.navarro-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeeraso.navarro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-felipe--eraso--col2003-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-eraso-col2003)
+[![GitHub](https://img.shields.io/badge/GitHub-FeliEraso03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeliEraso03)
+
+[![Location](https://img.shields.io/badge/📍_Cartagena-Colombia-FF6B35?style=for-the-badge)](https://www.google.com/maps/place/Centro+Histórico+de+Cartagena/)
+[![Profile Views](https://komarev.com/ghpvc/?username=FeliEraso03&label=Profile+Views&color=7B68EE&style=for-the-badge)](https://github.com/FeliEraso03)
+
+</div>
+
+
+
 
 </div>
 
