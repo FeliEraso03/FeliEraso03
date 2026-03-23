@@ -1,4 +1,6 @@
-![Vaporwave GIF](https://media.tenor.com/1gfCwmVdMB8AAAAM/vaporwave.gif)
+<p align="center">
+  <img src="https://media.tenor.com/1gfCwmVdMB8AAAAM/vaporwave.gif" width="400" />
+</p>
 
 <h1 align="center">Felipe Eraso</h1>
 
@@ -7,51 +9,85 @@
 </p>
 
 <p align="center">
-  <a href="mailto:felipeeraso.navarro@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="20" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/FeliEraso03">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="20" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/felipe-eraso-col2003">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20" />
-  </a>
-  &nbsp;
-  <span>Cartagena, Colombia</span>
+
+<a href="mailto:felipeeraso.navarro@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="28"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/FeliEraso03">
+  <img src="https://img.icons8.com/color/48/github.png" width="28"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/felipe-eraso-col2003">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="28"/>
+</a>
+
+&nbsp;&nbsp;
+
+Cartagena, Colombia
+
 </p>
 
 ---
 
 ## About Me
 
-Systems Engineering student in **8th semester** at the **University of Cartagena**, interested in software development, process automation, and data management.
+Systems Engineering student in **8th semester** at the **University of Cartagena**, interested in:
 
-Experience in technical support, data analysis, and automation of administrative tasks using Python, Excel, Google Sheets, and Google Apps Script to improve efficiency and reduce operational errors.
+- Software Development  
+- Process Automation  
+- Data Management  
+- Backend Development  
 
-Responsible, analytical, and solution-oriented, with strong teamwork skills and continuous learning mindset.
+Experience in technical support, data analysis, and automation of administrative tasks using Python, Excel, Google Sheets, and Google Apps Script.
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 <p align="center">
 
+<a href="https://www.python.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://www.java.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=java" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://skillicons.dev/icons?i=javascript" />
+</a>
+
+<a href="https://spring.io/" target="_blank">
 <img src="https://skillicons.dev/icons?i=spring" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=aws" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
+</a>
 
 </p>
 
 ---
 
-## GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -63,63 +99,79 @@ Responsible, analytical, and solution-oriented, with strong teamwork skills and 
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### MurallaGraph — Tourist Route Optimization System
+## MurallaGraph — Tourist Route Optimization System
 
-Web platform for route management and visualization in the Historic Center of Cartagena using graph algorithms and spatial analysis.
+Web platform for route management and visualization in the Historic Center of Cartagena using graph algorithms.
 
-Technologies:
+**Technologies**
 
 Spring Boot | MongoDB | Leaflet | JavaScript | REST API
 
 ---
 
-### REST API — User and Image Management System
+## REST API — User and Image Management System
 
-Backend system developed with Spring Boot for managing users and storing images using cloud storage services.
+Backend system developed with Spring Boot for managing users and storing images using cloud storage.
 
-Technologies:
+**Technologies**
 
 Spring Boot | MongoDB | REST API | Supabase Storage | Java
 
 ---
 
-### Data Processing and Automation Scripts
+## OnBoard — User Onboarding System
 
-Automation scripts designed to optimize administrative workflows, validate data, and reduce manual processing time.
+Repository:
 
-Technologies:
+https://github.com/Marlon-44/OnBoard
+
+**Description**
+
+System designed to manage onboarding processes and user registration workflows.
+
+**Technologies**
+
+Java | Backend | Software Engineering
+
+---
+
+## Data Processing and Automation Scripts
+
+Automation scripts designed to optimize administrative workflows and reduce manual processing time.
+
+**Technologies**
 
 Python | Google Apps Script | Excel | Data Processing
 
 ---
 
-## Education
+# Education
 
 Systems Engineering  
 University of Cartagena  
-2022 – Present  
+2022 — Present  
 
 ---
 
-## Certifications
+# Certifications
 
 - Data Visualization with Python — IBM (2024)  
 - Data Science Tools — IBM (2024)  
 - Data Analysis with Python — IBM (2024)  
-- AWS Academy Graduate – Cloud Developing — AWS (2025)  
+- AWS Academy Graduate — Cloud Developing (2025)
 
 ---
 
-## Languages
+# Languages
 
-Spanish: Native  
-English: Intermediate  
+Spanish — Native  
+English — Intermediate  
 
 ---
 
-## Visitor Counter
+# Visitor Counter
 
 <p align="center">
 
@@ -130,5 +182,5 @@ English: Intermediate
 ---
 
 <p align="center">
-  <i>Programming with music and at night.</i>
+Programming with music and at night.
 </p>
