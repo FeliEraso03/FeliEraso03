@@ -153,6 +153,27 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 
 ---
 
+## `now_playing` 🎧
+
+> *The soundtrack behind every commit.*
+
+```
+ #   artist               vibe
+─────────────────────────────────────────────────────
+ 1   Mon Laferte          ████████████████████  latin soul
+ 2   Estopa               ███████████████████   rumba urbana
+ 3   Måneskin             ██████████████████    rock revival
+ 4   The Midnight         █████████████████     synthwave / retrowave
+ 5   Foster The People    ████████████████      indie pop
+ 6   Damiano David        ███████████████       raw rock energy
+ 7   Chase Atlantic       ██████████████        alt R&B / dark pop
+ 8   Twenty One Pilots    █████████████         emotional alt
+ 9   Morat                ████████████          latin indie
+10   Julio Jaramillo      ███████████           pasillo colombiano 🇨🇴
+```
+
+---
+
 <div align="center">
 
 <img src="https://media.tenor.com/1gfCwmVdMB8AAAAM/vaporwave.gif" width="280"/>
