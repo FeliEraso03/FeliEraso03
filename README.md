@@ -2,7 +2,7 @@
 
 <img 
 src="https://capsule-render.vercel.app/api?type=venom&height=290&text=Felipe%20Eraso&fontSize=76&fontAlignY=40&desc=Software%20Development%20%7C%20Automation%20%7C%20Backend&descAlign=50&descAlignY=68&color=0:FF00CC,40:FF7A18,75:1A2BFF,100:00E5FF&fontColor=ffffff&animation=twinkling&stroke=1A2BFF&strokeWidth=1"
-width="100%"/>
+width="120%"/>
 
 <p align="center">
 
@@ -11,7 +11,6 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&col
 />
 
 </p>
-
 
 <br/>
 
