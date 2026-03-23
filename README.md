@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://media.tenor.com/1gfCwmVdMB8AAAAM/vaporwave.gif" width="380"/>
+
+<br/>
+
+<h1>
+
 ```
 ███████╗███████╗██╗     ██╗██████╗ ███████╗
 ██╔════╝██╔════╝██║     ██║██╔══██╗██╔════╝
@@ -9,15 +15,21 @@
 ╚═╝     ╚══════╝╚══════╝╚═╝╚═╝     ╚══════╝
 ```
 
+</h1>
+
 # Felipe Eraso · `@FeliEraso03`
 
 **`Systems Engineering Student · Backend Developer · Automation Enthusiast`**
 
-[![Gmail](https://img.shields.io/badge/Gmail-felipeeraso.navarro%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:felipeeraso.navarro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-felipe--eraso--col2003-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-eraso-col2003)
-[![GitHub](https://img.shields.io/badge/GitHub-FeliEraso03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FeliEraso03)
-![Location](https://img.shields.io/badge/📍_Cartagena,_Colombia-323330?style=flat-square)
-![Visitors](https://komarev.com/ghpvc/?username=FeliEraso03&label=Profile+Views&color=6e40c9&style=flat-square)
+[![Gmail](https://img.shields.io/badge/Gmail-felipeeraso.navarro%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeeraso.navarro@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-felipe--eraso--col2003-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-eraso-col2003)
+
+[![GitHub](https://img.shields.io/badge/GitHub-FeliEraso03-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeliEraso03)
+
+[![Location](https://img.shields.io/badge/Location-Cartagena,%20Colombia-1E90FF?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+
+![Visitors](https://komarev.com/ghpvc/?username=FeliEraso03&label=Profile%20Views&color=6e40c9&style=for-the-badge)
 
 </div>
 
@@ -126,12 +138,12 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FeliEraso03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeliEraso03&layout=compact&theme=tokyonight&langs_count=5&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=FeliEraso03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeliEraso03&layout=compact&theme=tokyonight&langs_count=8&count_private=true&hide_border=true&bg_color=0d1117" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=FeliEraso03&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=FeliEraso03&theme=tokyonight&hide_border=true&background=0d1117&fire=DD2727&ring=6e40c9&currStreakLabel=6e40c9" />
 
 </div>
 
