@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=330&text=Felipe%20Eraso&fontSize=75&color=0:8B5CF6,50:EC4899,100:06B6D4&fontColor=ffffff&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" width="100%"/>
+<img 
+src="https://capsule-render.vercel.app/api?type=venom&height=290&text=Felipe%20Eraso&fontSize=76&fontAlignY=40&desc=Software%20Development%20%7C%20Automation%20%7C%20Backend&descAlign=50&descAlignY=68&color=0:FF00CC,40:FF7A18,75:1A2BFF,100:00E5FF&fontColor=ffffff&animation=twinkling&stroke=1A2BFF&strokeWidth=1"
+width="100%"/>
+
+<p align="center">
+
+<img 
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student;Backend+Developer+%7C+Spring+Boot+%2B+MongoDB;Process+Automation+%7C+Python+%2B+GAS;Building+things+by+night"
+/>
+
+</p>
 
 <p align="center">
 
