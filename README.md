@@ -1,35 +1,16 @@
 <div align="center">
 
-<img src="https://media.tenor.com/1gfCwmVdMB8AAAAM/vaporwave.gif" width="380"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Felipe%20Eraso&fontSize=75&color=0:8B5CF6,50:EC4899,100:06B6D4&fontColor=ffffff&animation=fadeIn&stroke=8B5CF6&strokeWidth=1" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Systems+Engineering+Student+%F0%9F%8E%93;Backend+Developer+%7C+Spring+Boot+%2B+MongoDB;Process+Automation+%7C+Python+%2B+GAS;Building+things+by+night+%F0%9F%8C%99%F0%9F%8E%A7" alt="Typing SVG" />
 
 <br/>
 
-<h1>
-
-```
-███████╗███████╗██╗     ██╗██████╗ ███████╗
-██╔════╝██╔════╝██║     ██║██╔══██╗██╔════╝
-█████╗  █████╗  ██║     ██║██████╔╝█████╗  
-██╔══╝  ██╔══╝  ██║     ██║██╔═══╝ ██╔══╝  
-██║     ███████╗███████╗██║██║     ███████╗
-╚═╝     ╚══════╝╚══════╝╚═╝╚═╝     ╚══════╝
-```
-
-</h1>
-
-# Felipe Eraso · `@FeliEraso03`
-
-**`Systems Engineering Student · Backend Developer · Automation Enthusiast`**
-
-[![Gmail](https://img.shields.io/badge/Gmail-felipeeraso.navarro%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeeraso.navarro@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-felipe--eraso--col2003-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-eraso-col2003)
-
-[![GitHub](https://img.shields.io/badge/GitHub-FeliEraso03-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeliEraso03)
-
-[![Location](https://img.shields.io/badge/Location-Cartagena,%20Colombia-1E90FF?style=for-the-badge&logo=googlemaps&logoColor=white)]()
-
-![Visitors](https://komarev.com/ghpvc/?username=FeliEraso03&label=Profile%20Views&color=6e40c9&style=for-the-badge)
+[![Gmail](https://img.shields.io/badge/Gmail-felipeeraso.navarro%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:felipeeraso.navarro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-felipe--eraso--col2003-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-eraso-col2003)
+[![GitHub](https://img.shields.io/badge/GitHub-FeliEraso03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FeliEraso03)
+![Location](https://img.shields.io/badge/📍_Cartagena,_Colombia-323330?style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=FeliEraso03&label=Profile+Views&color=8B5CF6&style=flat-square)
 
 </div>
 
@@ -61,21 +42,22 @@ class FelipeEraso:
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)](https://leafletjs.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
 ### Workflow & Automation
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/apps-script)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 </div>
 
@@ -143,7 +125,7 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=FeliEraso03&theme=tokyonight&hide_border=true&background=0d1117&fire=DD2727&ring=6e40c9&currStreakLabel=6e40c9" />
+<img src="https://streak-stats.demolab.com?user=FeliEraso03&theme=tokyonight&hide_border=true&background=0d1117&fire=DD2727&ring=8B5CF6&currStreakLabel=8B5CF6" />
 
 </div>
 
@@ -172,6 +154,10 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 ---
 
 <div align="center">
+
+<img src="https://media.tenor.com/1gfCwmVdMB8AAAAM/vaporwave.gif" width="280"/>
+
+<br/>
 
 *`// programming with music and at night`* 🎧🌙
 
