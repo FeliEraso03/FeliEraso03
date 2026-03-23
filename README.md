@@ -1,186 +1,166 @@
-<p align="center">
-  <img src="https://media.tenor.com/1gfCwmVdMB8AAAAM/vaporwave.gif" width="400" />
-</p>
+<div align="center">
 
-<h1 align="center">Felipe Eraso</h1>
+```
+███████╗███████╗██╗     ██╗██████╗ ███████╗
+██╔════╝██╔════╝██║     ██║██╔══██╗██╔════╝
+█████╗  █████╗  ██║     ██║██████╔╝█████╗  
+██╔══╝  ██╔══╝  ██║     ██║██╔═══╝ ██╔══╝  
+██║     ███████╗███████╗██║██║     ███████╗
+╚═╝     ╚══════╝╚══════╝╚═╝╚═╝     ╚══════╝
+```
 
-<p align="center">
-  <strong>Systems Engineering Student | Software Development | Process Automation</strong>
-</p>
+# Felipe Eraso · `@FeliEraso03`
 
-<p align="center">
+**`Systems Engineering Student · Backend Developer · Automation Enthusiast`**
 
-<a href="mailto:felipeeraso.navarro@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="28"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-felipeeraso.navarro%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:felipeeraso.navarro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-felipe--eraso--col2003-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-eraso-col2003)
+[![GitHub](https://img.shields.io/badge/GitHub-FeliEraso03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FeliEraso03)
+![Location](https://img.shields.io/badge/📍_Cartagena,_Colombia-323330?style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=FeliEraso03&label=Profile+Views&color=6e40c9&style=flat-square)
 
-&nbsp;&nbsp;
-
-<a href="https://github.com/FeliEraso03">
-  <img src="https://img.icons8.com/color/48/github.png" width="28"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/felipe-eraso-col2003">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="28"/>
-</a>
-
-&nbsp;&nbsp;
-
-Cartagena, Colombia
-
-</p>
+</div>
 
 ---
 
-## About Me
+## `whoami`
 
-Systems Engineering student in **8th semester** at the **University of Cartagena**, interested in:
+```python
+class FelipeEraso:
+    location   = "Cartagena, Colombia 🇨🇴"
+    university = "Universidad de Cartagena — Systems Engineering (8th semester)"
+    status     = "Building things by night 🌙"
 
-- Software Development  
-- Process Automation  
-- Data Management  
-- Backend Development  
+    focus = [
+        "Backend Development",
+        "Process Automation",
+        "Data Management",
+        "REST APIs & Microservices",
+    ]
 
-Experience in technical support, data analysis, and automation of administrative tasks using Python, Excel, Google Sheets, and Google Apps Script.
-
----
-
-# Tech Stack
-
-<p align="center">
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" />
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=java" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://skillicons.dev/icons?i=javascript" />
-</a>
-
-<a href="https://spring.io/" target="_blank">
-<img src="https://skillicons.dev/icons?i=spring" />
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=aws" />
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" />
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</p>
+    currently_learning = ["Cloud Architecture (AWS)", "Graph Algorithms", "System Design"]
+    fun_fact           = "I code better with music on and the city asleep."
+```
 
 ---
 
-# GitHub Stats
+## `tech_stack`
 
-<p align="center">
+<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FeliEraso03&show_icons=true&theme=tokyonight" />
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeliEraso03&layout=compact&theme=tokyonight" />
+### Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-</p>
+### Workflow & Automation
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
-
-# Featured Projects
-
-## MurallaGraph — Tourist Route Optimization System
-
-Web platform for route management and visualization in the Historic Center of Cartagena using graph algorithms.
-
-**Technologies**
-
-Spring Boot | MongoDB | Leaflet | JavaScript | REST API
-
----
-
-## REST API — User and Image Management System
-
-Backend system developed with Spring Boot for managing users and storing images using cloud storage.
-
-**Technologies**
-
-Spring Boot | MongoDB | REST API | Supabase Storage | Java
+</div>
 
 ---
 
-## OnBoard — User Onboarding System
+## `featured_projects`
 
-Repository:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-https://github.com/Marlon-44/OnBoard
+### 🗺️ MurallaGraph
+> **Tourist Route Optimization · Cartagena**
 
-**Description**
+Web platform for route management and visualization in the **Historic Center of Cartagena** using graph algorithms and spatial data analysis.
 
-System designed to manage onboarding processes and user registration workflows.
+**Stack:** `Spring Boot` `MongoDB` `Leaflet.js` `JavaScript` `REST API`
 
-**Technologies**
+</td>
+<td width="50%" valign="top">
 
-Java | Backend | Software Engineering
+### 🖼️ REST API — Image & User Management
+> **Cloud Storage Backend**
 
----
+Backend system for managing users and storing images with cloud integration. Full CRUD with scalable architecture.
 
-## Data Processing and Automation Scripts
+**Stack:** `Spring Boot` `MongoDB` `Supabase Storage` `Java`
 
-Automation scripts designed to optimize administrative workflows and reduce manual processing time.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Technologies**
+### 🚀 OnBoard
+> **User Onboarding System**
 
-Python | Google Apps Script | Excel | Data Processing
+System designed to manage onboarding processes and user registration workflows in organizational environments.
 
----
+**Stack:** `Java` `Backend` `Software Engineering`
 
-# Education
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Marlon-44/OnBoard)
 
-Systems Engineering  
-University of Cartagena  
-2022 — Present  
+</td>
+<td width="50%" valign="top">
 
----
+### ⚙️ Automation Scripts
+> **Administrative Workflow Automation**
 
-# Certifications
+Scripts designed to optimize administrative workflows and reduce manual processing time significantly.
 
-- Data Visualization with Python — IBM (2024)  
-- Data Science Tools — IBM (2024)  
-- Data Analysis with Python — IBM (2024)  
-- AWS Academy Graduate — Cloud Developing (2025)
+**Stack:** `Python` `Google Apps Script` `Excel`
 
----
-
-# Languages
-
-Spanish — Native  
-English — Intermediate  
-
----
-
-# Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=FeliEraso03&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-Programming with music and at night.
-</p>
+## `github_stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FeliEraso03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeliEraso03&layout=compact&theme=tokyonight&langs_count=5&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=FeliEraso03&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
+
+---
+
+## `education_&_certs`
+
+```
+🎓  Systems Engineering — Universidad de Cartagena (2022 – Present)
+
+📜  AWS Academy Graduate — Cloud Developing           (2025)
+📜  Data Analysis with Python — IBM                   (2024)
+📜  Data Science Tools — IBM                          (2024)
+📜  Data Visualization with Python — IBM              (2024)
+```
+
+---
+
+## `languages`
+
+```
+🇪🇸  Spanish  ████████████  Native
+🇺🇸  English  ██████░░░░░░  Intermediate
+```
+
+---
+
+<div align="center">
+
+*`// programming with music and at night`* 🎧🌙
+
+</div>
