@@ -12,13 +12,6 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&col
 
 </p>
 
-<p align="center">
-
-<img 
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=Systems+Engineering+Student;Backend+Developer+%7C+Spring+Boot+%2B+MongoDB;Process+Automation+%7C+Python+%2B+GAS;Building+things+by+night"
-/>
-
-</p>
 
 <br/>
 
