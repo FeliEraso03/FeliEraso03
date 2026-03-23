@@ -18,15 +18,14 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&col
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-felipeeraso.navarro-white?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=EA4335&color=white&fontColor=EA4335)](mailto:felipeeraso.navarro@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-felipeeraso.navarro-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335)](mailto:felipeeraso.navarro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-felipe--eraso--col2003-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://linkedin.com/in/felipe-eraso-col2003)
 [![GitHub](https://img.shields.io/badge/GitHub-FeliEraso03-white?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717)](https://github.com/FeliEraso03)
 
 [![Location](https://img.shields.io/badge/📍_Cartagena-Colombia-white?style=for-the-badge&labelColor=555555&color=FF6B35)](https://www.google.com/maps/place/Centro+Histórico+de+Cartagena/)
-[![Profile Views](https://komarev.com/ghpvc/?username=FeliEraso03&label=Profile+Views&color=7B68EE&style=for-the-badge)](https://github.com/FeliEraso03)
+[![Views](https://komarev.com/ghpvc/?username=FeliEraso03&style=for-the-badge&color=7B68EE&label=PROFILE+VIEWS)](https://github.com/FeliEraso03)
 
 </div>
-
 
 
 
