@@ -109,9 +109,9 @@ Backend system for managing users and storing images with cloud integration. Ful
 <td width="50%" valign="top">
 
 ### 🚀 OnBoard
-> **User Onboarding System**
+> **Vehicle Rental Intermediary Platform**
 
-System designed to manage onboarding processes and user registration workflows in organizational environments.
+Web application that connects vehicle owners with people who want to rent vehicles, enabling communication and rental coordination between both parties.
 
 **Stack:** `Java` `Backend` `Software Engineering`
 
