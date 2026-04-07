@@ -37,19 +37,27 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&col
 
 ```python
 class FelipeEraso:
-    location   = "Cartagena, Colombia 🇨🇴"
-    university = "Universidad de Cartagena — Systems Engineering (8th semester)"
-    status     = "Building things by night 🌙"
+    def __init__(self):
+        self.location   = "Cartagena, Colombia 🇨🇴"
+        self.university = "Universidad de Cartagena — Systems Engineering (8th semester)"
+        self.status     = "Shipping code while the city sleeps 🌙"
 
-    focus = [
-        "Backend Development",
-        "Process Automation",
-        "Data Management",
-        "REST APIs & Microservices",
-    ]
+        self.focus = [
+            "Backend Development",
+            "Process Automation",
+            "Data Management",
+            "REST APIs & Microservices",
+            "Problem Solving with Algorithms"
+        ]
 
-    currently_learning = ["Cloud Architecture (AWS)", "Graph Algorithms", "System Design"]
-    fun_fact           = "I code better with music on and the city asleep."
+        self.interests = [
+            "Building efficient systems",
+            "Clean code & architecture",
+            "Automation workflows",
+            "Late-night coding sessions 🎧"
+        ]
+
+        self.fun_fact = "I write better code with music on and fewer distractions."
 ```
 
 ---
