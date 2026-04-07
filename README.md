@@ -174,20 +174,9 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 
 > *The soundtrack behind every commit.*
 
-```
- #   artist               vibe
-─────────────────────────────────────────────────────
- 1   Mon Laferte          ████████████████████  latin soul / bolero pop
- 2   Estopa               ███████████████████   rumba catalana
- 3   Måneskin             ██████████████████    rock revival / glam rock
- 4   The Midnight         █████████████████     synthwave / retrowave
- 5   Foster The People    ████████████████      indie pop
- 6   Damiano David        ███████████████       alt rock / raw rock energy
- 7   Chase Atlantic       ██████████████        alt R&B / dark pop
- 8   Twenty One Pilots    █████████████         emotional alt / indie rock
- 9   Morat                ████████████          latin pop / folk pop
-10   Julio Jaramillo      ███████████           pasillo / bolero ecuatoriano 🇪🇨
-```
+<p align="center">
+  <img src="./mars-animation.svg" width="100%" alt="Mars — Damiano David"/>
+</p>
 
 ---
 
