@@ -172,7 +172,7 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 
 ## `now_playing` 🎧
 
-> *The soundtrack behind every commit.*
+```
  #   artist               vibe
 ─────────────────────────────────────────────────────
  1   Mon Laferte          ████████████████████  latin soul / bolero pop
@@ -185,6 +185,7 @@ Scripts designed to optimize administrative workflows and reduce manual processi
  8   Twenty One Pilots    █████████████         emotional alt / indie rock
  9   Morat                ████████████          latin pop / folk pop
 10   Julio Jaramillo      ███████████           pasillo / bolero ecuatoriano 🇪🇨
+```
 
 > *My favorite song*
 
