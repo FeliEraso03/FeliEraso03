@@ -137,12 +137,12 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=FeliEraso03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeliEraso03&layout=compact&theme=tokyonight&langs_count=8&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=FeliEraso03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeliEraso03&layout=compact&theme=tokyonight&langs_count=8&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=FeliEraso03&theme=tokyonight&hide_border=true&background=0d1117&fire=DD2727&ring=8B5CF6&currStreakLabel=8B5CF6" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FeliEraso03&theme=tokyonight&hide_border=true&background=0d1117&fire=DD2727&ring=8B5CF6&currStreakLabel=8B5CF6" />
 
 </div>
 
