@@ -173,7 +173,7 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 ## `now_playing` 🎧
 
 > *The soundtrack behind every commit.*
-#   artist               vibe
+ #   artist               vibe
 ─────────────────────────────────────────────────────
  1   Mon Laferte          ████████████████████  latin soul / bolero pop
  2   Estopa               ███████████████████   rumba catalana
