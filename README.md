@@ -35,7 +35,8 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&col
 
 ## `whoami`
 
-```pythonclass FelipeEraso:
+```python
+class FelipeEraso:
     def __init__(self):
         self.location   = "Cartagena, Colombia"
         self.university = "Universidad de Cartagena — Systems Engineering (8th semester)"
