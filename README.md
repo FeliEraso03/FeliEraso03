@@ -35,12 +35,11 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&col
 
 ## `whoami`
 
-```python
-class FelipeEraso:
+```pythonclass FelipeEraso:
     def __init__(self):
-        self.location   = "Cartagena, Colombia 🇨🇴"
+        self.location   = "Cartagena, Colombia"
         self.university = "Universidad de Cartagena — Systems Engineering (8th semester)"
-        self.status     = "Shipping code while the city sleeps 🌙"
+        self.status     = "Shipping code while the city sleeps"
 
         self.focus = [
             "Backend Development",
@@ -54,10 +53,31 @@ class FelipeEraso:
             "Building efficient systems",
             "Clean code & architecture",
             "Automation workflows",
-            "Late-night coding sessions 🎧"
+            "Late-night coding sessions"
         ]
 
         self.fun_fact = "I write better code with music on and fewer distractions."
+
+    def code(self):
+        return "Turning coffee into scalable solutions."
+
+    def listen_to_music(self):
+        return "Now playing while coding..."
+
+    def debug(self):
+        return "Fixing bugs during development."
+
+    def deploy(self):
+        return "Deploying applications to production."
+
+    def learn(self, topic):
+        return f"Currently learning about {topic}."
+
+    def automate(self):
+        return "Automating repetitive processes."
+
+    def __repr__(self):
+        return "FelipeEraso(dev=True, sleep=False, music=True)"
 ```
 
 ---
@@ -70,22 +90,28 @@ class FelipeEraso:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)](#)
 
 ### Frameworks & Tools
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)](https://leafletjs.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
 ### Workflow & Automation
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/apps-script)
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 </div>
-
 ---
 
 ## `featured_projects`
