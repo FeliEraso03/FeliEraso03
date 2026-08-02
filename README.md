@@ -14,8 +14,6 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&col
 
 <br/>
 
-
-
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-felipeeraso.navarro-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335)](mailto:felipeeraso.navarro@gmail.com)
@@ -27,8 +25,6 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&col
 
 </div>
 
-
-
 </div>
 
 ---
@@ -39,7 +35,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&col
 class FelipeEraso:
     def __init__(self):
         self.location   = "Cartagena, Colombia"
-        self.university = "Universidad de Cartagena — Systems Engineering (8th semester)"
+        self.university = "Universidad de Cartagena — Systems Engineering (9th semester)"
         self.status     = "Shipping code while the city sleeps"
 
         self.focus = [
@@ -62,9 +58,6 @@ class FelipeEraso:
     def code(self):
         return "Turning coffee into scalable solutions."
 
-    def listen_to_music(self):
-        return "Now playing while coding..."
-
     def debug(self):
         return "Fixing bugs during development."
 
@@ -78,7 +71,7 @@ class FelipeEraso:
         return "Automating repetitive processes."
 
     def __repr__(self):
-        return "FelipeEraso(dev=True, sleep=False, music=True)"
+        return "FelipeEraso(dev=True, sleep=False, focused=True)"
 ```
 
 ---
@@ -111,6 +104,7 @@ class FelipeEraso:
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 </div>
+
 ---
 
 ## `featured_projects`
@@ -170,8 +164,8 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=FeliEraso03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeliEraso03&layout=compact&theme=tokyonight&langs_count=8&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=FeliEraso03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FeliEraso03&layout=compact&theme=tokyonight&langs_count=8&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
 
 <br/>
 
@@ -203,37 +197,12 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 
 ---
 
-## `now_playing` 🎧
-
-```
- #   artist               vibe
-─────────────────────────────────────────────────────
- 1   Mon Laferte          ████████████████████  latin soul / bolero pop
- 2   Estopa               ███████████████████   rumba catalana
- 3   Måneskin             ██████████████████    rock revival / glam rock
- 4   The Midnight         █████████████████     synthwave / retrowave
- 5   Foster The People    ████████████████      indie pop
- 6   Damiano David        ███████████████       alt rock / raw rock energy
- 7   Chase Atlantic       ██████████████        alt R&B / dark pop
- 8   Twenty One Pilots    █████████████         emotional alt / indie rock
- 9   Morat                ████████████          latin pop / folk pop
-10   Julio Jaramillo      ███████████           pasillo / bolero ecuatoriano 🇪🇨
-```
-
-> *My favorite song*
-
-<p align="center">
-  <img src="./mars-animation.svg" width="100%" alt="Mars — Damiano David"/>
-</p>
-
----
-
 <div align="center">
 
 <img src="https://media.tenor.com/1gfCwmVdMB8AAAAM/vaporwave.gif" width="280"/>
 
 <br/>
 
-*`// programming with music and at night`* 🎧🌙
+*`// programming with focus and at night`* 🌙
 
 </div>
