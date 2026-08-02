@@ -76,6 +76,12 @@ class FelipeEraso:
 
 ---
 
+## `about_me`
+
+> Estudiante de Ingeniería de Sistemas en noveno semestre, con interés en el desarrollo de software y la automatización de procesos. Cuento con experiencia en soporte técnico, gestión y análisis de datos, y automatización de tareas administrativas utilizando herramientas como Excel, Google Hojas de Cálculo y Google Apps Script. Me caracterizo por ser responsable, analítico y orientado a la solución de problemas, con facilidad para el trabajo en equipo y disposición para aprender nuevas tecnologías y aportar valor en entornos tecnológicos.
+
+---
+
 ## `tech_stack`
 
 <div align="center">
@@ -169,7 +175,7 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FeliEraso03&theme=tokyonight&hide_border=true&background=0d1117&fire=DD2727&ring=8B5CF6&currStreakLabel=8B5CF6" />
+<img src="https://streak-stats.demolab.com/?user=FeliEraso03&theme=tokyonight&hide_border=true&background=0d1117&fire=DD2727&ring=8B5CF6&currStreakLabel=8B5CF6" />
 
 </div>
 
@@ -180,10 +186,12 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 ```
 🎓  Systems Engineering — Universidad de Cartagena (2022 – Present)
 
-📜  AWS Academy Graduate — Cloud Developing           (2025)
-📜  Data Analysis with Python — IBM                   (2024)
-📜  Data Science Tools — IBM                          (2024)
-📜  Data Visualization with Python — IBM              (2024)
+📜  AWS Academy Graduate — Cloud Developing                          (2025)
+📜  Data Analysis with Python — IBM                                  (2024)
+📜  Data Science Tools — IBM                                         (2024)
+📜  Data Visualization with Python — IBM                             (2024)
+📜  Diplomado en Desarrollo de Software — UdeA (Misión TIC)          (2022)
+📜  Diplomado en Fundamentos de Programación en Python — UdeA (Misión TIC)  (2022)
 ```
 
 ---
