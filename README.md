@@ -33,6 +33,15 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&col
 
 ```python
 class FelipeEraso:
+    """
+    Systems Engineering student focused on software development and
+    process automation. Experienced in technical support, data
+    management/analysis, and automating administrative tasks with
+    Excel, Google Sheets, and Google Apps Script. Responsible,
+    analytical, and problem-solving oriented, with strong teamwork
+    skills and a drive to learn new technologies.
+    """
+
     def __init__(self):
         self.location   = "Cartagena, Colombia"
         self.university = "Universidad de Cartagena — Systems Engineering (9th semester)"
@@ -44,6 +53,14 @@ class FelipeEraso:
             "Data Management",
             "REST APIs & Microservices",
             "Problem Solving with Algorithms"
+        ]
+
+        self.traits = [
+            "Responsible",
+            "Analytical",
+            "Problem-solver",
+            "Team player",
+            "Fast learner"
         ]
 
         self.interests = [
@@ -73,12 +90,6 @@ class FelipeEraso:
     def __repr__(self):
         return "FelipeEraso(dev=True, sleep=False, focused=True)"
 ```
-
----
-
-## `about_me`
-
-> Estudiante de Ingeniería de Sistemas en noveno semestre, con interés en el desarrollo de software y la automatización de procesos. Cuento con experiencia en soporte técnico, gestión y análisis de datos, y automatización de tareas administrativas utilizando herramientas como Excel, Google Hojas de Cálculo y Google Apps Script. Me caracterizo por ser responsable, analítico y orientado a la solución de problemas, con facilidad para el trabajo en equipo y disposición para aprender nuevas tecnologías y aportar valor en entornos tecnológicos.
 
 ---
 
@@ -190,8 +201,8 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 📜  Data Analysis with Python — IBM                                  (2024)
 📜  Data Science Tools — IBM                                         (2024)
 📜  Data Visualization with Python — IBM                             (2024)
-📜  Diplomado en Desarrollo de Software — UdeA (Misión TIC)          (2022)
-📜  Diplomado en Fundamentos de Programación en Python — UdeA (Misión TIC)  (2022)
+📜  Software Development Diploma — UdeA (Misión TIC)                 (2022)
+📜  Python Programming Fundamentals Diploma — UdeA (Misión TIC)       (2022)
 ```
 
 ---
