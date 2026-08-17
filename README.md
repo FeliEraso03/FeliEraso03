@@ -175,20 +175,28 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 
 <div align="center">
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=FeliEraso03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FeliEraso03&layout=compact&theme=tokyonight&langs_count=8&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+<table>
+<tr>
+<td align="center" width="50%">
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=FeliEraso03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+</td>
+<td align="center" width="50%">
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FeliEraso03&layout=compact&theme=tokyonight&langs_count=8&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+</td>
+</tr>
+</table>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=FeliEraso03&theme=tokyonight&hide_border=true&background=0D1117&fire=DD2727&ring=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+<img width="60%" src="https://raw.githubusercontent.com/FeliEraso03/FeliEraso03/main/profile/streak.svg" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=FeliEraso03&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
+![Commits](https://img.shields.io/badge/Commits_(last_year)-112-1A2BFF?style=for-the-badge&labelColor=0d1117)
+![Contributed](https://img.shields.io/badge/Contributed_to-2_repos-FF00CC?style=for-the-badge&labelColor=0d1117)
+![PRs](https://img.shields.io/badge/Pull_Requests-1-00E5FF?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
-> 💡 Si la tarjeta de racha (streak) alguna vez aparece rota: es un problema conocido del servidor público de `demolab.com`, no de tu código — suele recuperarse solo tras unos minutos/horas. Para una solución permanente, `github-readme-streak-stats` permite generar el SVG vía **GitHub Actions** y alojarlo en tu propio repo, así deja de depender del servidor público.
+> ⚠️ **Nota técnica:** la tarjeta de streak ahora apunta a un SVG generado por un **GitHub Action** dentro de tu propio repo (`profile/streak.svg`), en vez del servidor público `streak-stats.demolab.com`. Ese servidor gratuito falla con frecuencia bajo carga, y el widget de trofeos (`github-profile-trophy`) tiene un aviso público de su mantenedor de que puede darse de baja por falta de financiamiento — por eso lo quité y lo cambié por badges estáticos, que nunca se caen. Para activar el streak self-hosted, agrega el archivo `.github/workflows/streak-stats.yml` (te lo dejo aparte) a tu repo `FeliEraso03/FeliEraso03` — se genera automáticamente cada noche.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=gradient&customColorList=6,11,20&reversal=false" width="100%"/>
 
