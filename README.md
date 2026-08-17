@@ -16,7 +16,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&col
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-felipe--eraso--col2003-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://linkedin.com/in/felipe-eraso-col2003)
 [![GitHub](https://img.shields.io/badge/GitHub-FeliEraso03-white?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717)](https://github.com/FeliEraso03)
 
-[![Location](https://img.shields.io/badge/📍_Cartagena-Colombia-white?style=for-the-badge&labelColor=555555&color=FF6B35)](https://www.google.com/maps/place/Centro+Histórico+de+Cartagena/)
+[![Location](https://img.shields.io/badge/Cartagena-Colombia-white?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=555555&color=FF6B35)](https://www.google.com/maps/place/Centro+Histórico+de+Cartagena/)
 [![Views](https://komarev.com/ghpvc/?username=FeliEraso03&style=for-the-badge&color=7B68EE&label=PROFILE+VIEWS)](https://github.com/FeliEraso03)
 
 </p>
@@ -81,9 +81,9 @@ class FelipeEraso:
 
 <table>
 <tr>
-<td width="33%" align="center">🧠<br/><b>Learning</b><br/>Distributed systems & microservices patterns</td>
-<td width="33%" align="center">🛠️<br/><b>Building</b><br/><code>MurallaGraph</code> — routing engine for Cartagena's Historic Center</td>
-<td width="33%" align="center">🎯<br/><b>Goal 2026</b><br/>Ship a production-grade backend project end-to-end</td>
+<td width="33%" align="center"><img width="22" height="22" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IkZGMDBDQyIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTQgMTkuNUEyLjUgMi41IDAgMCAxIDYuNSAxN0gyMCIvPjxwYXRoIGQ9Ik02LjUgMkgyMHYyMEg2LjVBMi41IDIuNSAwIDAgMSA0IDE5LjV2LTE1QTIuNSAyLjUgMCAwIDEgNi41IDJ6Ii8+PC9zdmc+"/><br/><b>Learning</b><br/>Distributed systems & microservices patterns</td>
+<td width="33%" align="center"><img width="22" height="22" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IkZGN0ExOCIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTE0LjcgNi4zYTEgMSAwIDAgMCAwIDEuNGwxLjYgMS42YTEgMSAwIDAgMCAxLjQgMGwzLjc3LTMuNzdhNiA2IDAgMCAxLTcuOTQgNy45NGwtNi45MSA2LjkxYTIuMTIgMi4xMiAwIDAgMS0zLTNsNi45MS02LjkxYTYgNiAwIDAgMSA3Ljk0LTcuOTRsLTMuNzYgMy43NnoiLz48L3N2Zz4="/><br/><b>Building</b><br/><code>MurallaGraph</code> — routing engine for Cartagena's Historic Center</td>
+<td width="33%" align="center"><img width="22" height="22" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IjFBMkJGRiIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjUuNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjIiLz48L3N2Zz4="/><br/><b>Goal 2026</b><br/>Ship a production-grade backend project end-to-end</td>
 </tr>
 </table>
 
@@ -124,7 +124,7 @@ class FelipeEraso:
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ MurallaGraph
+### <img width="18" height="18" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IjAwRTVGRiIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIxIDEwYzAgNy05IDEzLTkgMTNzLTktNi05LTEzYTkgOSAwIDAgMSAxOCAweiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTAiIHI9IjMiLz48L3N2Zz4="/> MurallaGraph
 > **Tourist Route Optimization · Cartagena**
 
 Web platform for route management and visualization in the **Historic Center of Cartagena** using graph algorithms and spatial data analysis.
@@ -134,7 +134,7 @@ Web platform for route management and visualization in the **Historic Center of 
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ REST API — Image & User Management
+### <img width="18" height="18" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IkZGMDBDQyIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iMiIgcnk9IjIiLz48Y2lyY2xlIGN4PSI4LjUiIGN5PSI4LjUiIHI9IjEuNSIvPjxwb2x5bGluZSBwb2ludHM9IjIxIDE1IDE2IDEwIDUgMjEiLz48L3N2Zz4="/> REST API — Image & User Management
 > **Cloud Storage Backend**
 
 Backend system for managing users and storing images with cloud integration. Full CRUD with scalable architecture.
@@ -146,7 +146,7 @@ Backend system for managing users and storing images with cloud integration. Ful
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 OnBoard
+### <img width="18" height="18" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IjFBMkJGRiIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTQuNSAxNi41Yy0xLjUgMS4yNi0yIDUtMiA1czMuNzQtLjUgNS0yYy43MS0uODQuNy0yLjEzLS4wOS0yLjkxYTIuMTggMi4xOCAwIDAgMC0yLjkxLS4wOXoiLz48cGF0aCBkPSJNMTIgMTVsLTMtM2EyMiAyMiAwIDAgMSAyLTMuOTVBMTIuODggMTIuODggMCAwIDEgMjIgMmMwIDIuNzItLjc4IDcuNS02IDExYTIyLjM1IDIyLjM1IDAgMCAxLTQgMnoiLz48cGF0aCBkPSJNOSAxMkg0cy41NS0zLjAzIDItNGMxLjYyLTEuMDggNSAwIDUgMCIvPjxwYXRoIGQ9Ik0xMiAxNXY1czMuMDMtLjU1IDQtMmMxLjA4LTEuNjIgMC01IDAtNSIvPjwvc3ZnPg=="/> OnBoard
 > **Vehicle Rental Intermediary Platform**
 
 Web application that connects vehicle owners with people who want to rent vehicles, enabling communication and rental coordination between both parties.
@@ -158,7 +158,7 @@ Web application that connects vehicle owners with people who want to rent vehicl
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Automation Scripts
+### <img width="18" height="18" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IjAwRTVGRiIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIvPjxwYXRoIGQ9Ik0xOS40IDE1YTEuNjUgMS42NSAwIDAgMCAuMzMgMS44MmwuMDYuMDZhMiAyIDAgMSAxLTIuODMgMi44M2wtLjA2LS4wNmExLjY1IDEuNjUgMCAwIDAtMS44Mi0uMzMgMS42NSAxLjY1IDAgMCAwLTEgMS41MVYyMWEyIDIgMCAwIDEtNCAwdi0uMDlBMS42NSAxLjY1IDAgMCAwIDkgMTkuNGExLjY1IDEuNjUgMCAwIDAtMS44Mi4zM2wtLjA2LjA2YTIgMiAwIDEgMS0yLjgzLTIuODNsLjA2LS4wNmExLjY1IDEuNjUgMCAwIDAgLjMzLTEuODIgMS42NSAxLjY1IDAgMCAwLTEuNTEtMUgzYTIgMiAwIDAgMSAwLTRoLjA5QTEuNjUgMS42NSAwIDAgMCA0LjYgOWExLjY1IDEuNjUgMCAwIDAtLjMzLTEuODJsLS4wNi0uMDZhMiAyIDAgMSAxIDIuODMtMi44M2wuMDYuMDZhMS42NSAxLjY1IDAgMCAwIDEuODIuMzNIOWExLjY1IDEuNjUgMCAwIDAgMS0xLjUxVjNhMiAyIDAgMCAxIDQgMHYuMDlhMS42NSAxLjY1IDAgMCAwIDEgMS41MSAxLjY1IDEuNjUgMCAwIDAgMS44Mi0uMzNsLjA2LS4wNmEyIDIgMCAxIDEgMi44MyAyLjgzbC0uMDYuMDZhMS42NSAxLjY1IDAgMCAwLS4zMyAxLjgyVjlhMS42NSAxLjY1IDAgMCAwIDEuNTEgMUgyMWEyIDIgMCAwIDEgMCA0aC0uMDlhMS42NSAxLjY1IDAgMCAwLTEuNTEgMXoiLz48L3N2Zz4="/> Automation Scripts
 > **Administrative Workflow Automation**
 
 Scripts designed to optimize administrative workflows and reduce manual processing time significantly.
@@ -196,34 +196,51 @@ Scripts designed to optimize administrative workflows and reduce manual processi
 
 </div>
 
-> ⚠️ **Nota técnica:** la tarjeta de streak ahora apunta a un SVG generado por un **GitHub Action** dentro de tu propio repo (`profile/streak.svg`), en vez del servidor público `streak-stats.demolab.com`. Ese servidor gratuito falla con frecuencia bajo carga, y el widget de trofeos (`github-profile-trophy`) tiene un aviso público de su mantenedor de que puede darse de baja por falta de financiamiento — por eso lo quité y lo cambié por badges estáticos, que nunca se caen. Para activar el streak self-hosted, agrega el archivo `.github/workflows/streak-stats.yml` (te lo dejo aparte) a tu repo `FeliEraso03/FeliEraso03` — se genera automáticamente cada noche.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=gradient&customColorList=6,11,20&reversal=false" width="100%"/>
+
+## `contribution_graph`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeliEraso03/FeliEraso03/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeliEraso03/FeliEraso03/output/github-contribution-grid-snake.svg" />
+  <img alt="animated contribution snake" src="https://raw.githubusercontent.com/FeliEraso03/FeliEraso03/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=gradient&customColorList=6,11,20&reversal=false" width="100%"/>
 
 ## `education_&_certs`
 
-```
-🎓  Systems Engineering — Universidad de Cartagena (2022 – Present)
+<img width="20" height="20" align="left" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IkZGMDBDQyIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIyIDEwTDEyIDUgMiAxMGwxMCA1IDEwLTV6Ii8+PHBhdGggZD0iTTYgMTJ2NWMwIDEuNjYgMi42OSAzIDYgM3M2LTEuMzQgNi0zdi01Ii8+PHBhdGggZD0iTTIyIDEwdjYiLz48L3N2Zz4="/>&nbsp;**Systems Engineering** — Universidad de Cartagena (2022 – Present)
 
-📜  AWS Academy Graduate — Cloud Developing                          (2025)
-📜  Data Analysis with Python — IBM                                  (2024)
-📜  Data Science Tools — IBM                                         (2024)
-📜  Data Visualization with Python — IBM                             (2024)
-📜  Software Development Diploma — UdeA (Misión TIC)                 (2022)
-📜  Python Programming Fundamentals Diploma — UdeA (Misión TIC)       (2022)
-```
+<br/><br/>
+
+| | Certification | Year |
+|---|---|---|
+| <img width="18" height="18" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IkZGN0ExOCIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSI4IiByPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iOC4yMSAxMy44OSA3IDIzIDEyIDIwIDE3IDIzIDE1Ljc5IDEzLjg4Ii8+PC9zdmc+" /> | AWS Academy Graduate — Cloud Developing | 2025 |
+| <img width="18" height="18" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IkZGN0ExOCIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSI4IiByPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iOC4yMSAxMy44OSA3IDIzIDEyIDIwIDE3IDIzIDE1Ljc5IDEzLjg4Ii8+PC9zdmc+" /> | Data Analysis with Python — IBM | 2024 |
+| <img width="18" height="18" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IkZGN0ExOCIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSI4IiByPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iOC4yMSAxMy44OSA3IDIzIDEyIDIwIDE3IDIzIDE1Ljc5IDEzLjg4Ii8+PC9zdmc+" /> | Data Science Tools — IBM | 2024 |
+| <img width="18" height="18" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IkZGN0ExOCIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSI4IiByPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iOC4yMSAxMy44OSA3IDIzIDEyIDIwIDE3IDIzIDE1Ljc5IDEzLjg4Ii8+PC9zdmc+" /> | Data Visualization with Python — IBM | 2024 |
+| <img width="18" height="18" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IkZGN0ExOCIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSI4IiByPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iOC4yMSAxMy44OSA3IDIzIDEyIDIwIDE3IDIzIDE1Ljc5IDEzLjg4Ii8+PC9zdmc+" /> | Software Development Diploma — UdeA (Misión TIC) | 2022 |
+| <img width="18" height="18" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IkZGN0ExOCIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSI4IiByPSI3Ii8+PHBvbHlsaW5lIHBvaW50cz0iOC4yMSAxMy44OSA3IDIzIDEyIDIwIDE3IDIzIDE1Ljc5IDEzLjg4Ii8+PC9zdmc+" /> | Python Programming Fundamentals Diploma — UdeA (Misión TIC) | 2022 |
 
 ## `languages`
 
-```
-🇪🇸  Spanish  ████████████  Native
-🇺🇸  English  ██████░░░░░░  Intermediate
-```
+<img width="18" height="18" align="left" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IjFBMkJGRiIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIvPjxsaW5lIHgxPSIzIiB5MT0iMTIiIHgyPSIyMSIgeTI9IjEyIi8+PHBhdGggZD0iTTEyIDNhMTQgMTQgMCAwIDEgNCA5IDE0IDE0IDAgMCAxLTQgOSAxNCAxNCAwIDAgMS00LTkgMTQgMTQgMCAwIDEgNC05eiIvPjwvc3ZnPg=="/>&nbsp;**Spanish** — Native
+![](https://progress-bar.xyz/100?title=&width=220&color=FF00CC&suffix=%20&scale=100)
+
+<img width="18" height="18" align="left" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IjFBMkJGRiIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIvPjxsaW5lIHgxPSIzIiB5MT0iMTIiIHgyPSIyMSIgeTI9IjEyIi8+PHBhdGggZD0iTTEyIDNhMTQgMTQgMCAwIDEgNCA5IDE0IDE0IDAgMCAxLTQgOSAxNCAxNCAwIDAgMS00LTkgMTQgMTQgMCAwIDEgNC05eiIvPjwvc3ZnPg=="/>&nbsp;**English** — Intermediate
+![](https://progress-bar.xyz/60?title=&width=220&color=00E5FF&suffix=%20&scale=100)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 
 <div align="center">
 
-*`// programming with focus and at night`* 🌙
+<img width="18" height="18" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiBmaWxsPSJub25lIiBzdHJva2U9IjAwRTVGRiIgc3Ryb2tlLXdpZHRoPSIxLjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIxIDEyLjc5QTkgOSAwIDEgMSAxMS4yMSAzIDcgNyAwIDAgMCAyMSAxMi43OXoiLz48L3N2Zz4="/>
+
+*`// programming with focus and at night`*
 
 </div>
