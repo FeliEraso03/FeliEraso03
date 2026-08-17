@@ -21,6 +21,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.SNAKE_TOKEN }}   # PAT con scope "read:user" para incluir commits privados
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
